@@ -134,5 +134,5 @@ The project will be graded based on the following criteria:
 Source code 
 Project report 
 Presentation 
-
+This was a group effort involving each person to work on their individual task involving tasks like data collection & preparation, Exploratory Data Analysis (EDA), Feature Engineering, Feature ranking, Modeling and Documention
 Note: All the three points above also evaluates the project tasks. 
